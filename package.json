@@ -1,0 +1,19 @@
+{
+  "name": "node-core-tutorial",
+  "version": "1.0.0",
+  "description": "A package which includes a set of examples to learn node basic concepts",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bucklandevelopment/node-core-tutorial.git"
+  },
+  "author": "Jessie Buckland",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Bucklandevelopment/node-core-tutorial/issues"
+  },
+  "homepage": "https://github.com/Bucklandevelopment/node-core-tutorial#readme"
+}
